@@ -2,10 +2,12 @@
 ## Run Jupyter Notebook
    - open cmd
    - type 'jupyter notebook'
-   - ![image](https://github.com/user-attachments/assets/bf81a073-a865-498b-90d6-998bcf243991)
+   - ![image](https://github.com/user-attachments/assets/ec214bea-761b-4dc0-8fcd-6d3d186d7f03)
+
 ## Run the terminal
    - from jupyter notebook, click "New" then "Terminal"
    - ![image](https://github.com/user-attachments/assets/8dcec370-261a-4787-a23f-a409cba74552)
+     
 ## Run streamlit app
    - make sure refer to the correct path
    - type 'streamlit dashboard.py'
