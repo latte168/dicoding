@@ -8,6 +8,7 @@
    - ![image](https://github.com/user-attachments/assets/8dcec370-261a-4787-a23f-a409cba74552)
 ## Run streamlit app
    - make sure refer to the correct path
-   - type 'streamlit dashboard.py' 
-   ![image](https://github.com/user-attachments/assets/8ea2c782-2815-44a5-9a32-8e1ebea933fc)
+   - type 'streamlit dashboard.py'
+   - ![image](https://github.com/user-attachments/assets/664b97e2-72a8-4418-991a-56e3a33b4f1a)
+
 
